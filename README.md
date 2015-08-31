@@ -12,13 +12,14 @@ Currently the package includes the following snippets:
 
 ###UI Components
 
+#### Layouts
 - Absolute Layout - ```nsabsolute```
 - Dock Layout - ```nsdock```
 - Grid Layout - ```nsgrid```
 - Stack Layout - ```nsstack```
 - Wrap Layout - ```nswrap```
 
-
+### Widgets
 - Page - ```nspage```
 - Action Bar - ```nsactionbar```
 - Label - ```nslabel```
