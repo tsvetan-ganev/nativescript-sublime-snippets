@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[textWrap="true"$1
+]]></content>
+  <tabTrigger>wrap</tabTrigger>
+  <description>{N} Text Wrap Attribute</description>
+  <scope>text.xml</scope>
+</snippet>

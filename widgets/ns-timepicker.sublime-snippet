@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<TimePicker hour="$1" minute="$2"></TimePicker>
+$3
+]]></content>
+  <tabTrigger>nstime</tabTrigger>
+  <description>{N} TimePicker</description>
+  <scope>text.xml</scope>
+</snippet>

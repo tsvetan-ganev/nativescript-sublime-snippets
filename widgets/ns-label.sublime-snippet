@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Label text="$1" textWrap="true" />
+$2
+]]></content>
+	<tabTrigger>nslabel</tabTrigger>
+	<description>{N} Label</description>
+	<scope>text.xml</scope>
+</snippet>

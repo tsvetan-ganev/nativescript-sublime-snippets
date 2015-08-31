@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[horizontalAlignment="$1"$2
+]]></content>
+	<tabTrigger>halign</tabTrigger>
+	<description>{N} Horizontal Alignment Attribute</description>
+	<scope>text.xml</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<TextView text="{{ $1 }}" editable="false" />
+$2
+]]></content>
+	<tabTrigger>nstextview_non-editable</tabTrigger>
+	<description>{N} TextView (Non-editable)</description>
+	<scope>text.xml</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Slider minValue="$1" maxValue="$2" value="{{ $3 }}" />
+$4
+]]></content>
+	<tabTrigger>nsslider</tabTrigger>
+	<description>{N} Slider</description>
+	<scope>text.xml</scope>
+</snippet>

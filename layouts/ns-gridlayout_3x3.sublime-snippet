@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[<GridLayout rows="*, *, *" columns="*, *, *">
+  <Label text="0, 0" row="0" col="0" />
+  <Label text="0, 1" row="0" col="1" />
+  <Label text="0, 2" row="0" col="2" />
+  <Label text="1, 0" row="1" col="0" />
+  <Label text="1, 1" row="1" col="1" />
+  <Label text="1, 2" row="1" col="2" />
+  <Label text="2, 0" row="2" col="0" />
+  <Label text="2, 1" row="2" col="1" />
+  <Label text="2, 2" row="2" col="2" />
+</GridLayout>
+]]></content>
+  <tabTrigger>nsgrid_3x3</tabTrigger>
+  <description>{N} GridLayout 3x3</description>
+  <scope>text.xml</scope>
+</snippet>

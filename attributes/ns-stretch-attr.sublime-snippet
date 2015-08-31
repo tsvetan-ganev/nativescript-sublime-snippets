@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[stretch="fill"$1
+]]></content>
+  <tabTrigger>stretch</tabTrigger>
+  <description>{N} Stretch Attribute</description>
+  <scope>text.xml</scope>
+</snippet>

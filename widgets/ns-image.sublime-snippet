@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Image src="$1" stretch ="none" />
+$2
+]]></content>
+	<tabTrigger>nsimg</tabTrigger>
+	<description>{N} Image</description>
+	<scope>text.xml</scope>
+</snippet>

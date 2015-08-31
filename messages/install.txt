@@ -1,0 +1,26 @@
+============================================================
+Thank you for installing {N}ativeScript Snippets!
+============================================================
+
+This package contains XML snippets for NativeScript's UI components
+(Layouts and Widgets) as well as some frequently used attributes.
+
+UI components are prefixed with "ns", while attributes do not have a prefix.
+
+All snippets are based on the official {N} documentation:
+https://docs.nativescript.org/
+
+Feel free to edit the contents of this package, make contributions and suggest improvements.
+https://github.com/tsvetan-ganev/nativescript-sublime-snippets
+
+If you happen to also use Visual Studio Code, please have a look at
+https://github.com/tsvetan-ganev/nativescript-vscode-snippets
+where I have uploaded the same snippets but for Microsoft's code editor.
+
+If you have any technical questions regarding NativeScript, you can join
+https://plus.google.com/communities/117408587889337015711 - {N} @ G+ communities
+and
+https://groups.google.com/forum/#!forum/nativescript - {N} @ G+ forums
+where NativeScript enthusiasts gather and share their knowledge.
+
+And finally - have fun developing your next cross-platform mobile application!

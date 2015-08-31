@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<WrapLayout orientation="horizontal" itemWidth="" itemHeight="">
+  $1
+</WrapLayout>
+]]></content>
+  <tabTrigger>nswrap</tabTrigger>
+  <description>{N} WrapLayout</description>
+  <scope>text.xml</scope>
+</snippet>

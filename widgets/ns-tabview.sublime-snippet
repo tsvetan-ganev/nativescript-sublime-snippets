@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[<TabView id="tabViewContainer">
+    <TabView.items>
+      <TabViewItem title="Tab 1">
+        <TabViewItem.view>
+          <Label text="This is Label in Tab 1" />
+        </TabViewItem.view>
+      </TabViewItem>
+      <TabViewItem title="Tab 2">
+        <TabViewItem.view>
+          <Label text="This is Label in Tab 2" />
+        </TabViewItem.view>
+      </TabViewItem>
+    </TabView.items>
+</TabView>
+$1
+]]></content>
+<tabTrigger>nstabview</tabTrigger>
+<description>{N} TabView</description>
+<scope>text.xml</scope>
+</snippet>

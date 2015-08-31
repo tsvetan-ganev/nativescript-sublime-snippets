@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[colSpan="$1"$2
+]]></content>
+	<tabTrigger>colspan</tabTrigger>
+	<description>{N} Colspan Attribute</description>
+	<scope>text.xml</scope>
+</snippet>

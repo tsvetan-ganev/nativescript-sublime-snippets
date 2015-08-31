@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Progress value="{{ $1 }}" />
+$2
+]]></content>
+	<tabTrigger>nsprogress</tabTrigger>
+	<description>{N} ProgressBar</description>
+	<scope>text.xml</scope>
+</snippet>

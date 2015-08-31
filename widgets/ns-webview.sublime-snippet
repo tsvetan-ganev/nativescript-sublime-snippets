@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<WebView src="someUrl | pathToLocalFile | htmlString" />
+$1
+]]></content>
+  <tabTrigger>nswebview</tabTrigger>
+  <description>{N} WebView</description>
+  <scope>text.xml</scope>
+</snippet>

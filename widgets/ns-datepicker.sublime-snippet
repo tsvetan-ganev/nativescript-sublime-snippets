@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<DatePicker day="$1" month="$2" year="$3"></DatePicker>
+$4
+]]></content>
+  <tabTrigger>nsdate</tabTrigger>
+  <description>{N} DatePicker</description>
+  <scope>text.xml</scope>
+</snippet>

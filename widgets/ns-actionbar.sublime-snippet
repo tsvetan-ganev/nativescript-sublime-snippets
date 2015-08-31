@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[<Page.actionBar>
+	<ActionBar title="Title" icon="">
+		<NavigationButton text="Back" icon="" tap="" />
+		<ActionBar.actionItems>
+			<ActionItem icon="" text="Left" tap="" iosPosition="left" />
+			<ActionItem icon="" text="Center" tap="" iosPosition="center" />
+			<ActionItem icon="" text="Right" tap="" iosPosition="right" />
+		</ActionBar.actionItems>
+	</ActionBar>
+</Page.actionBar>
+]]></content>
+	<tabTrigger>nsactionbar</tabTrigger>
+	<description>{N} Action Bar</description>
+	<scope>text.xml</scope>
+</snippet>

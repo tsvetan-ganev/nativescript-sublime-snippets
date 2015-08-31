@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<TextField hint="$1" text="{{ $2 }}" />
+$3
+]]></content>
+	<tabTrigger>nstextfield</tabTrigger>
+	<description>{N} TextField</description>
+	<scope>text.xml</scope>
+</snippet>

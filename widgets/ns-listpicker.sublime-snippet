@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<ListPicker items="{{ $1 }}" selectedIndex="$2"></ListPicker>
+$3
+]]></content>
+  <tabTrigger>nslistpicker</tabTrigger>
+  <description>{N} ListPicker</description>
+  <scope>text.xml</scope>
+</snippet>

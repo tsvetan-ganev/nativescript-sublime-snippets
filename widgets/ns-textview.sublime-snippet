@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<TextView hint="$1" text="{{ $2 }}" editable="true" />
+$3
+]]></content>
+	<tabTrigger>nstextview</tabTrigger>
+	<description>{N} TextView (Editable)</description>
+	<scope>text.xml</scope>
+</snippet>

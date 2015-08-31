@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<GridLayout rows="$1" columns="$2">
+    $3
+</GridLayout>
+]]></content>
+  <tabTrigger>nsgrid</tabTrigger>
+  <description>{N} GridLayout</description>
+  <scope>text.xml</scope>
+</snippet>

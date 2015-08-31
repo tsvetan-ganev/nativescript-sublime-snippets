@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[<ListView items="{{ source }}" loaded="onLoaded" itemLoading="onItemLoading" itemTap="onItemTap">
+	<ListView.itemTemplate>
+		$1
+	</ListView.itemTemplate>
+</ListView>
+]]></content>
+	<tabTrigger>nslistview</tabTrigger>
+	<description>{N} ListView</description>
+	<scope>text.xml</scope>
+</snippet>

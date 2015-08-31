@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Button text="$1" tap="$2" />
+$3
+]]></content>
+	<tabTrigger>nsbtn</tabTrigger>
+	<description>{N} Button</description>
+	<scope>text.xml</scope>
+</snippet>

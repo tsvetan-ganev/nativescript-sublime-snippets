@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[cssClass="$1"
+]]></content>
+	<tabTrigger>css</tabTrigger>
+	<description>{N} CSS Class</description>
+	<scope>text.xml</scope>
+</snippet>
+

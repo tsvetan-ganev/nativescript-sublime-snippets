@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<Switch checked="{{ $1 }}" />
+$2
+]]></content>
+	<tabTrigger>nsswitch</tabTrigger>
+	<description>{N} Switch</description>
+	<scope>text.xml</scope>
+</snippet>

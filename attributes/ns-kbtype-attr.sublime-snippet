@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[keyboardType="email"$1
+]]></content>
+  <tabTrigger>kbtype</tabTrigger>
+  <description>{N} KeyboardType Attribute</description>
+  <scope>text.xml</scope>
+</snippet>

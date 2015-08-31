@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<ScrollView>
+	<Repeater items=\{{ $1 }}\>
+		<Repeater.itemsLayout>
+			<StackLayout />
+		</Repeater.itemsLayout>
+		<Repeater.itemTemplate>
+			$2
+		</Repeater.itemTemplate>
+	</Repeater>
+</ScrollView>
+]]></content>
+	<tabTrigger>nsscroll</tabTrigger>
+	<description>{N} ScrollView</description>
+	<scope>text.xml</scope>
+</snippet>

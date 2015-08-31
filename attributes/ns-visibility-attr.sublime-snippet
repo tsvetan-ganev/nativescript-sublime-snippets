@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[visibility="{{ isItemVisible ? 'visible' : 'collapsed' }}"$2"
+]]></content>
+	<tabTrigger>visibility</tabTrigger>
+	<description>{N} Visibility Attribute</description>
+	<scope>text.xml</scope>
+</snippet>

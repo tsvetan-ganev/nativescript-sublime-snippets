@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<DockLayout stretchLastChild="true">
+  <Label dock="top" text="I am on top!"/>
+  $1
+</DockLayout>
+]]></content>
+  <tabTrigger>nsdock</tabTrigger>
+  <description>{N} DockLayout</description>
+  <scope>text.xml</scope>
+</snippet>

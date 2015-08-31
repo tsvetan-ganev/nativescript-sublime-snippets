@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<AbsoluteLayout>
+  <Label text="A dummy label." top=""  right="" bottom="" left="" />
+  $1
+</AbsoluteLayout>
+]]></content>
+  <tabTrigger>nsabsolute</tabTrigger>
+  <description>{N} AbsoluteLayout</description>
+  <scope>text.xml</scope>
+</snippet>

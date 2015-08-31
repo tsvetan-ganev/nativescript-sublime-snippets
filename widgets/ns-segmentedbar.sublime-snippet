@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<SegmentedBar selectedIndex="{{ selectedIndex }}">
+	<SegmentedBar.items>
+		<SegmentedBarEntry title="First">
+		<SegmentedBarEntry title="Second">
+		<SegmentedBarEntry title="Third">
+		$1
+	</SegmentedBar.items>
+</SegmentedBar>
+]]></content>
+	<tabTrigger>nssegmentedbar</tabTrigger>
+	<description>{N} SegmentedBar</description>
+	<scope>text.xml</scope>
+</snippet>

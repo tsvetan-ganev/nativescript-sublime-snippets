@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<ActivityIndicator width="100" height="100" busy="{{ $1 }}" />
+$2
+]]></content>
+	<tabTrigger>nsloading</tabTrigger>
+	<description>{N} ActivityIndicator</description>
+	<scope>text.xml</scope>
+</snippet>
+

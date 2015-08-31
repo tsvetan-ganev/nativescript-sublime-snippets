@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<Border borderRadius="$1" borderWidth="$2" borderColor="#000000">
+	$3
+</Border>
+]]></content>
+	<tabTrigger>nsborder</tabTrigger>
+	<description>{N} Border</description>
+	<scope>text.xml</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[tap="$1"$2
+]]></content>
+  <tabTrigger>tap</tabTrigger>
+  <description>{N} Tap Attribute</description>
+  <scope>text.xml</scope>
+</snippet>

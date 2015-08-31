@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<StackLayout orientation="horizontal">
+	$1
+</StackLayout>
+]]></content>
+	<tabTrigger>nsstack_horizontal</tabTrigger>
+	<description>{N} StackLayout Horizontal</description>
+	<scope>text.xml</scope>
+</snippet>

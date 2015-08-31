@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[<GridLayout rows="*, *" columns="*, *">
+  <Label text="0, 0" row="0" col="0" />
+  <Label text="0, 1" row="0" col="1" />
+  <Label text="1, 0" row="1" col="0" />
+  <Label text="1, 1" row="1" col="1" />
+</GridLayout>
+]]></content>
+  <tabTrigger>nsgrid_2x2</tabTrigger>
+  <description>{N} GridLayout 2x2</description>
+  <scope>text.xml</scope>
+</snippet>

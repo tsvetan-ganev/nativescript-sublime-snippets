@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[<Repeater items="{{ $1 }}">
+  <Repeater.itemsLayout>
+    <StackLayout />
+  </Repeater.itemsLayout>
+  <Repeater.itemTemplate>
+    $2 
+  </Repeater.itemTemplate>
+</Repeater>
+]]></content>
+  <tabTrigger>nsrepeater</tabTrigger>
+  <description>{N} Repeater</description>
+  <scope>text.xml</scope>
+</snippet>

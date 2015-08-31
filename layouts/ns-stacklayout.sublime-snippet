@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<StackLayout>
+	$1
+<StackLayout>
+]]></content>
+	<tabTrigger>nsstack</tabTrigger>
+	<description>{N} StackLayout</description>
+	<scope>text.xml</scope>
+</snippet>
