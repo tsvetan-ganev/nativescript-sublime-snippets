@@ -24,3 +24,5 @@ https://groups.google.com/forum/#!forum/nativescript - {N} @ G+ forums
 where NativeScript enthusiasts gather and share their knowledge.
 
 And finally - have fun developing your next cross-platform mobile application!
+
+v1.0.1 - Adds SearchBar snippet and a screenshot for the README.
