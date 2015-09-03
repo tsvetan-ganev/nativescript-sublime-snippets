@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<SearchBar id="searchBar" hint="Search" text="$1" clear="onClear" submit="onSubmit" />
+$2
+]]></content>
+  <tabTrigger>nssearchbar</tabTrigger>
+  <description>{N} SearchBar</description>
+  <scope>text.xml</scope>
+</snippet>

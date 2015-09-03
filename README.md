@@ -1,5 +1,7 @@
 # Sublime {N}ativeScript Snippets
 
+![](screenshots/screenshot.gif)
+
 This package contains XML snippets for NativeScript's UI components
 (Layouts and Widgets) as well as some frequently used attributes.
 
