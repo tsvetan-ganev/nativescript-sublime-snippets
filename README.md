@@ -31,6 +31,7 @@ Currently the package includes the following snippets:
 - Image - ```nsimg```
 - Border - ```nsborder```
 - Button - ```nsbtn```
+- SearchBar - ```nssearchbar```
 - Switch - ```nsswitch```
 - Slider - ```nsslider```
 - Progress - ```nsprogress```
