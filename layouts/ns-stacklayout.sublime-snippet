@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[<StackLayout>
 	$1
-<StackLayout>
+</StackLayout>
 ]]></content>
 	<tabTrigger>nsstack</tabTrigger>
 	<description>{N} StackLayout</description>
